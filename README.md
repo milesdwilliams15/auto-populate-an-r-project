@@ -5,7 +5,7 @@ The R script file `pop_dir.R` creates a function to automatically populate an R 
 To use it run:
 
 ```{r}
-source()
+source("https://raw.githubusercontent.com/milesdwilliams15/auto-populate-an-r-project/refs/heads/main/pop_dir.R")
 ```
 
 Then, to run it, either use it's default setting, or give it a custom set of file paths.
